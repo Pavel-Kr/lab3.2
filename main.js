@@ -36,4 +36,4 @@ function hello(){
   let hello=document.getElementById("hello");
   hello.innerHTML="Привет "+name;
 }
-window.onload=hello();
+//window.onload=hello();
